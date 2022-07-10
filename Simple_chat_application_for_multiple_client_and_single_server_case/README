@@ -1,0 +1,19 @@
+INSTRUCTION FOR RUNNING THE CODE
+
+IMPORTANT INFO: This code works in Windows only.
+
+STEP 1: Go to command prompt and go to the folder/directory that contains your code.
+
+STEP 2: Now compile your Client.cpp and Server.cpp files using command "g++ Client.cpp/Server.cpp -o client_output.exe/server_output.exe -lwsock32"(without quotes).
+
+STEP 3: Run your server_output.exe file using command "server_output.exe"(without quotes).
+
+STEP 4: Open the command prompts as many clients you want to connect with server for chatting after that run "client_output.exe"(without quotes).
+
+STEP 5: For each client you have to provide a username and IP address of server when the command demands it.
+
+STEP 6: After that for each client Registration process is start once registration is done you are free to strat sendig and recieving messages.
+
+STEP 7: For sending message use "@reciptantname: message you want to send".
+
+STEP 8: If your message is correct and recive to reciptent then you saw that the sent reciptantname.
